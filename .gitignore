@@ -1,3 +1,5 @@
 e_env/
-/store/.env
-/db.sqlite3
+/ecommerce_project/.env
+db.sqlite3
+/static/
+/store/migrations
